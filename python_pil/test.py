@@ -23,4 +23,4 @@ im_b64 = base64.b64encode(im_bytes)
 
 im_b64
 
-
+## html <img src="data:image~, ~~~~ /> 에 넣을 때 im_b64 b'   , ' 를 삭제해야함
